@@ -1,0 +1,1 @@
+trains={'CCExpress':['Chennai','a','b','c','d','Erode','Coimbatore'],'CMExpress':['Chennai','e','f','g','h','Madurai']}
