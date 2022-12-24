@@ -1,5 +1,0 @@
-deta==1.1.0
-pandas==1.5.2
-Pillow==9.3.0
-streamlit==1.15.2
-streamlit_authenticator==0.2.1
